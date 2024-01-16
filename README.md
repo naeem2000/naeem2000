@@ -10,7 +10,7 @@ I am Mogamat Naeem Carr
 </div>
 <div align="right">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&margin-w=20&margin-h=20)](https://github.com/naeem2000/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
 
 </div>
 
