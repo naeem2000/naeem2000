@@ -19,7 +19,7 @@ I am Mogamat Naeem Carr
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
-<div align="center">
+<div align="center" style="display: flex">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
 
