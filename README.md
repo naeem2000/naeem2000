@@ -24,11 +24,11 @@ I am Mogamat Naeem Carr
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
 | Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)   | ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)|
 | Codecademy Tee    |  False   | 19.99 |
 | Codecademy Hoodie |  False   | 42.99 |
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
+
 
 
 
