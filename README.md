@@ -14,7 +14,7 @@ I am Mogamat Naeem Carr
 
 </div>
 
-![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=gruvbox)
+![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=tokyonight)
 
 
 
