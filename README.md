@@ -19,11 +19,15 @@ I am Mogamat Naeem Carr
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
-<div align="center" style="display: flex">
+<div align="center">
+| Month    | Savings |
+| -------- | ------- |
+| ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)    |
+| February | $80     |
+| March    | $420    |
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
 
-![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)
 
   
 </div>
