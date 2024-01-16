@@ -4,6 +4,9 @@ I am Mogamat Naeem Carr
 
 -[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&margin-w=20&margin-h=20)](https://github.com/naeem2000/github-profile-trophy)
 
+
+![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
+
 **naeem2000/naeem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
