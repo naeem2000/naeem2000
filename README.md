@@ -21,15 +21,15 @@ I am Mogamat Naeem Carr
 <!-- Stats -->
 <div align="center">
   
-| Item              | In Stock |
+| ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
+ |
 
 
 
 
 
   
-![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
+
 
 
   
