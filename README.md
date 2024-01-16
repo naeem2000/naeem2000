@@ -21,12 +21,12 @@ I am Mogamat Naeem Carr
 <!-- Stats -->
 <div align="center">
   
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Item              | In Stock |
+| :---------------- | :------: |
+| Python Hat        |   True   |
+| SQL Hat           |   True   |
+| Codecademy Tee    |  False   |
+| Codecademy Hoodie |  False   |
   
 ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)
