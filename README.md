@@ -2,7 +2,7 @@
 
 I am Mogamat Naeem Carr
 
--[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=1)](https://github.com/naeem2000/github-profile-trophy)
+-[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&margin-w=20&margin-h=20)](https://github.com/naeem2000/github-profile-trophy)
 
 **naeem2000/naeem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
