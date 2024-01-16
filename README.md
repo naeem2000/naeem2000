@@ -20,6 +20,7 @@ I am Mogamat Naeem Carr
 
 <!-- Stats -->
 <div align="center">
+  
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
 | Python Hat        |   True   | 23.99 |
