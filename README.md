@@ -2,18 +2,14 @@
 
 I am Mogamat Naeem Carr
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&margin-w=20&margin-h=20)](https://github.com/naeem2000/github-profile-trophy) |
-|
-|
-|
-|
-|
+
+
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
 
 
 |   Name |                    Description |
 | -----: | -----------------------------: |
-|  first |                       ABC 123. |
+|  first |                       [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true&margin-w=20&margin-h=20)](https://github.com/naeem2000/github-profile-trophy). |
 | second |                       XYZ 456. |
 |  third | Some longer text here ABC 123. |
 
