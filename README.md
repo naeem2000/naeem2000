@@ -2,20 +2,22 @@
 
 I am Mogamat Naeem Carr
 
-<!-- Profile Viewer Counter End -->
+<!-- Profile Viewer Counter -->
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
                           
 </div>
-[Profile Viewer Counter End]
-<! -- Profile Viewer Counter End -->
+<!-- Profile Viewer Counter End -->
 
+<!-- Trophie Icons -->
 <div align="right">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
 
 </div>
+<!-- Trophie Icons End -->
+
 
 ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)
 
