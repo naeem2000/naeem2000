@@ -18,9 +18,15 @@ I am Mogamat Naeem Carr
 </div>
 <!-- Trophie Icons End -->
 
+<!-- Stats -->
+
+<div align="center">
 
 ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)
 
+  
+</div>
+<!-- Stats End -->
 
 
 
