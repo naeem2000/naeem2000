@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Mogamat Naeem Carr
-[Profile Viewer Counter]: <> (This is a comment, it will not be included)
+[Profile Viewer Counter]
 
 <! -- Profile Viewer Counter -->
 <div align="center">
