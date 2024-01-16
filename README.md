@@ -23,6 +23,7 @@ I am Mogamat Naeem Carr
 
 
 | :---------------- | :------: | ----: |
+| Codecademy Hoodie |  False   | 42.99 |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&hide_progress=true)   | ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave)|
 
   
