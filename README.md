@@ -3,7 +3,7 @@
 I am Mogamat Naeem Carr
 
 <!-- Profile Viewer Counter -->
-<div align="center">
+<div align="right">
   
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
                           
