@@ -5,7 +5,7 @@ I am Mogamat Naeem Carr
 <!-- Profile Viewer Counter -->
 <div align="right">
   
-![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
+![](https://komarev.com/ghpvc/?username=naeem2000&color=green&style=for-the-badge)
                           
 </div>
 <!-- Profile Viewer Counter End -->
