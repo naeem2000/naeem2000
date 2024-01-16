@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 I am Mogamat Naeem Carr
-[Profile Viewer Counter]
 
-<! -- Profile Viewer Counter -->
+[Profile Viewer Counter]
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
                           
 </div>
-
+[Profile Viewer Counter End]
 <! -- Profile Viewer Counter End -->
 
 <div align="right">
