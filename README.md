@@ -7,6 +7,14 @@ I am Mogamat Naeem Carr
 
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green)
 
+
+|   Name |                    Description |
+| -----: | -----------------------------: |
+|  first |                       ABC 123. |
+| second |                       XYZ 456. |
+|  third | Some longer text here ABC 123. |
+
+
 **naeem2000/naeem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
