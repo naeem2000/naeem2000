@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mogamat Naeem Carr, an energetuc individual, always willing and seeking to contibute on exciting projects. Let's innovate together!
+I am Mogamat Naeem Carr, an energetic individual, always willing to learn and seeking to contibute on exciting projects. Let's innovate together!
 
 <!-- Profile Viewer Counter -->
 <div align="right">
