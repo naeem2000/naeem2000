@@ -33,7 +33,10 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 </table>
 <!-- Stats End -->
 
-- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering 🤖
+<table>
+  <tr>
+    <td>
+    - 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering 🤖
 - 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! 👨‍💻
 - 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me as we grow 💪
 - 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble 🍕🍕🍕
@@ -41,7 +44,10 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 - 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/> 📩
 - 😄 Pronouns -> Pro_Noun? 😆
 - ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
--->
+    </td>
+  </tr>
+</table>
+
 
 <!-- Whatsapp -->
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
