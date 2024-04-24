@@ -2,7 +2,7 @@
 
 I am Mogamat Naeem Carr, an energetic individual, always willing to learn and seeking to contibute on exciting projects. Let's innovate together!
 
-![Main]([https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif](https://giphy.com/embed/JqmupuTVZYaQX5s094))
+![Main](https://giphy.com/embed/JqmupuTVZYaQX5s094)
 
 <!-- Profile Viewer Counter -->
 <div align="right">
