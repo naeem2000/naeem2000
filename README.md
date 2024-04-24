@@ -5,7 +5,11 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Profile Viewer Counter -->
 
 
+<div>
+
 ![](https://komarev.com/ghpvc/?username=naeem2000&color=green&style=for-the-badge)
+
+</div>
   
 
 <!-- Profile Viewer Counter End -->
@@ -15,11 +19,11 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- GIF end -->
 
 <!-- Trophie Icons -->
-<p>
+<div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
 
-</p>
+</div>
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
@@ -31,10 +35,6 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 
 </div>
 <!-- Stats End -->
-
-<div>
-  
-</div>
 
 - 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering 🤖
 - 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! 👨‍💻
