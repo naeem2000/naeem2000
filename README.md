@@ -19,7 +19,8 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <table>
   <tr>
     <td>
-      ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
+      
+![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact" alt="Top Langs">
