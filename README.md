@@ -22,9 +22,12 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
       
   ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
     </td>
-    <td>
-    ![GIF](https://giphy.com/embed/usXZmmgP9Z7kf39fnq.gif)
+
+        <td>
+      
+  ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
     </td>
+
   </tr>
 </table>
 
