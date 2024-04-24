@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mogamat Naeem Carr
+I am Mogamat Naeem Carr, an energetuc individual, always willing and seeking to contibute on exciting projects. Let's innovate together!
 
 <!-- Profile Viewer Counter -->
 <div align="right">
@@ -34,16 +34,12 @@ I am Mogamat Naeem Carr
   
 </div>
 
-**naeem2000/naeem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning && Data Structures.
+- 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! :D
+- 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me easily.
+- 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble.
+- 💬 Ask me about -> Project ideas, client stories, problems that can be solved with ground-breaking code solutions, whats for supper.
+- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/>
+- 😄 Pronouns -> Pro_Noun?
+- ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! :D
 -->
