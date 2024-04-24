@@ -2,6 +2,7 @@
 
 I am Mogamat Naeem Carr, an energetic individual, always willing to learn and seeking to contibute on exciting projects. Let's innovate together!
 
+<!-- GIF -->
 ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
 
 <!-- Profile Viewer Counter -->
@@ -31,8 +32,6 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Stats End -->
 
 <div>
-
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   
 </div>
 
@@ -45,3 +44,6 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 - 😄 Pronouns -> Pro_Noun? 😆
 - ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
 -->
+
+<!-- Whatsapp -->
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
