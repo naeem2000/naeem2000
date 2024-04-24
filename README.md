@@ -11,11 +11,11 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Profile Viewer Counter End -->
 
 <!-- Trophie Icons -->
-<div align="right">
+<p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
 
-</div>
+</p>
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
