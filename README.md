@@ -2,13 +2,13 @@
 
 I am Mogamat Naeem Carr, an energetic individual, always willing to learn and seeking to contibute on exciting projects. Let's innovate together!
 
+![](https://komarev.com/ghpvc/?username=naeem2000&color=green&style=for-the-badge)
+
 <!-- GIF -->
 ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
 
 <!-- Profile Viewer Counter -->
 <div align="right">
-  
-![](https://komarev.com/ghpvc/?username=naeem2000&color=green&style=for-the-badge)
                           
 </div>
 <!-- Profile Viewer Counter End -->
