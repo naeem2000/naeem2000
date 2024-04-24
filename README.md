@@ -19,13 +19,11 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
-<div style="display: flex">
-  
+<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact)
   
 ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave) 
-
-</div>
+</p>
 <!-- Stats End -->
 
 <div>
