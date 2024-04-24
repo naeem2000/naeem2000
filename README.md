@@ -11,6 +11,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 
 </div>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
 
 <!-- Profile Viewer Counter End -->
 
@@ -29,9 +30,6 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 
 <!-- Stats -->
 <table>
-      <td colspan="2">
-        [![trophy](https://github-profile-trophy.vercel.app/?username=naeem2000&theme=nord&no-bg=true&no-frame=true)](https://github.com/naeem2000/github-profile-trophy)
-    </td>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave" alt="Naeem's GitHub stats">
