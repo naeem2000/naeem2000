@@ -19,7 +19,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
-<div align="center">
+<div style="display: flex">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact)
   
