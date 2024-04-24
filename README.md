@@ -34,12 +34,12 @@ I am Mogamat Naeem Carr, an energetuc individual, always willing and seeking to 
   
 </div>
 
-- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering.
-- 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! :D
-- 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me easily.
-- 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble.
-- 💬 Ask me about -> Project ideas, client stories, problems that can be solved with ground-breaking code solutions, whats for supper.
-- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/>
-- 😄 Pronouns -> Pro_Noun?
-- ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! :D
+- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering 🤖
+- 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! 👨‍💻
+- 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me as we grow 💪
+- 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble 🍕🍕🍕
+- 💬 Ask me about -> Project ideas, client stories, problems that can be solved with ground-breaking code solutions, what's for supper 😉
+- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/> 📩
+- 😄 Pronouns -> Pro_Noun? 😆
+- ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
 -->
