@@ -34,7 +34,7 @@ I am Mogamat Naeem Carr, an energetuc individual, always willing and seeking to 
   
 </div>
 
-- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning && Data Structures.
+- 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering.
 - 🌱 I’m currently learning -> Python, OpenAI ain't seen nothin' yet! :D
 - 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me easily.
 - 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble.
