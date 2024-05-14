@@ -49,7 +49,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 - 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me as we grow 💪
 - 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble 🍕🍕🍕
 - 💬 Ask me about -> Project ideas, client stories, problems that can be solved with ground-breaking code solutions, what's for supper 😉
-- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/> 📩
+- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/> 📩. Or refer to the links below 😁
 - 😄 Pronouns -> Pro_Noun? 😆
 - ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
 
@@ -60,9 +60,8 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mncarr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/naeem__carr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: mogamatnaeemcarr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
