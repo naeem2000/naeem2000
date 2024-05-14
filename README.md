@@ -54,10 +54,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 - ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
 
 
-<!-- Whatsapp -->
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
+<!-- Contact -->
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/mncarr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
