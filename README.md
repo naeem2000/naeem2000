@@ -49,7 +49,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 - 👯 I’m looking to collaborate on -> Innovative projects that contains learning curves for all involved. I gym to have strong arms, so that I can hoist my team mates up with me as we grow 💪
 - 🤔 I’m looking for help with -> Finishing a triple decked pizza. I always have trouble 🍕🍕🍕
 - 💬 Ask me about -> Project ideas, client stories, problems that can be solved with ground-breaking code solutions, what's for supper 😉
-- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://www.google.com" target="_blank">>Click Here<<a/> 📩. Or below 😁
+- 📫 How to reach me -> LinkedIn & Email. Contact details are available on my personal website <a href="https://naeemdev.netlify.app/" target="_blank">>Click Here<<a/> 📩. Or below 😁
 - 😄 Pronouns -> Pro_Noun? 😆
 - ⚡ Fun fact -> I have been playing League of Legends for 7 years. Talk about an old gamer on one game! 👾
 
