@@ -32,7 +32,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
     <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave" alt="Naeem's GitHub stats" width="100%" />
     </td>
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact" alt="Top Langs" width="100%" />
     </td>
   </tr>
