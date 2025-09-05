@@ -15,7 +15,7 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- GIF -->
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF" width="45%" />
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF" width="43%" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno4cDQ3YW5ycmo3NG1mcTJuZ2JmcDNyZXNvYmo2Y3g3aWszM2R5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="GIF" width="50%" />
 </p>
 <!-- GIF end -->
