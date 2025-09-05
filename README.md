@@ -27,16 +27,17 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 <!-- Trophie Icons End -->
 
 <!-- Stats -->
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave" alt="Naeem's GitHub stats">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=naeem2000&show_icons=true&theme=synthwave" alt="Naeem's GitHub stats" width="100%" />
     </td>
-    <td>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact" alt="Top Langs">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem2000&layout=compact" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
+
 <!-- Stats End -->
 
 - 🔭 I’m currently working on -> Always but not limited to: React.JS, Next.JS, TypeScript -> Python - Machine Learning, Linear Regression && Clustering 🤖
