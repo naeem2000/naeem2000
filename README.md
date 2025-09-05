@@ -16,14 +16,14 @@ I am Mogamat Naeem Carr, an energetic individual, always willing to learn and se
 
 
 
-<table>
+<table style="width:100%; height:100%; border:0; border-collapse:collapse;">
   <tr>
-    <td align="center">
-      
-  ![GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF">
     </td>
   </tr>
 </table>
+
 
 <!-- GIF end -->
 
